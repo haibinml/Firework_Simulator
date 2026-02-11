@@ -34,12 +34,15 @@
 
 - [haodong108/fireworks-2023](https://gitee.com/haodong108/fireworks-2023)
 
-## 最便宜的 VPN
+## 恰饭
 
-[https://nianbroken.github.io/Great-Firewall/](https://nianbroken.github.io/Great-Firewall/)
+[Great-Firewall](https://nianbroken.github.io/Great-Firewall/) 好用的 VPN
 
-## 性价比最高的 ChatGPT 镜像站
-[Aizex 合租面板](https://aizex.klaio.top/)
+[Cubence](https://cubence.klaio.top/) AI API Code 中转
+
+[Aizex](https://aizex.klaio.top/) ChatGPT 镜像站
+
+以上绝对都是性价比最高的。
 
 ## 其他
 
